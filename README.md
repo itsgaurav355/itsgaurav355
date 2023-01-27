@@ -2,7 +2,7 @@
 - 👀 I’m interested in java backend development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on free lancing
-- 📫 How to reach me 
+- 📫 You can reach me via email prajapatigaurav355@gmail.com
 
 <!---
 itsgaurav355/itsgaurav355 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
