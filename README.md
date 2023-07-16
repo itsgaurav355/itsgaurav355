@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsgaurav355
 - 👀 I’m interested in java backend development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning fullstack web and app development
 - 💞️ I’m looking to collaborate on free lancing
 - 📫 You can reach me via email prajapatigaurav355@gmail.com
 
